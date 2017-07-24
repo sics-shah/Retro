@@ -5,4 +5,6 @@ package async.shah.com.retrofittest.adapter;
  */
 
 public class Testadapter {
+
+    //thirdbranch commit
 }
